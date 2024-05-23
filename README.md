@@ -1,16 +1,19 @@
-### Hi there 👋
+### BOAS VINDAS AO MEU PERFIL 
 
-<!--
-**menodosgrau/menodosgrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME E ERICK DO NASCIMENTO
 
-Here are some ideas to get you started:
+- estou estudando na alura
+- estou me desenvolvendo na linguagem javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### VOCE PODE ENTRAR EM CONTATO COMIGO 
+
+
+- vieiraerick433@gmail.com
+
+
+
+![](https://media1.tenor.com/m/dj9jxfUbDHAAAAAd/dog-smile-dog.gif) 
+
+
+
